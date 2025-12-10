@@ -60,12 +60,6 @@ The dataset includes a range of medical and personal features commonly used in h
 
 ---
 
-## Project Structure
-<img width="540" height="589" alt="image" src="https://github.com/user-attachments/assets/4dddde7b-3d3a-4f59-8235-fb40b7dbab5c" />
-
-
----
-
 ## Workflow
 1. Load and clean dataset  
 2. Perform EDA (correlation analysis, distribution plots, patterns)  
@@ -83,8 +77,6 @@ The dataset includes a range of medical and personal features commonly used in h
 - Evaluation conducted using accuracy, precision, recall, F1-score, and ROC-AUC  
 - Identification of key predictors such as chest pain type, cholesterol, and oldpeak  
 - Achieved strong predictive performance from models such as Random Forest and SVM  
-
-(Note: Graphs, screenshots, and performance metrics will be added after project upload.)
 
 ---
 
