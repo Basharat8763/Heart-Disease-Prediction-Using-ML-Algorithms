@@ -41,13 +41,13 @@ The dataset used in this project contains various clinical attributes related to
 - **target** – Presence of heart disease
 
 ### Target Variable
-0 → No Heart Disease
-1 → Heart Disease Present
+- 0 → No Heart Disease
+- 1 → Heart Disease Present
 
 
 ### Dataset Size:
-303 records
-14 features
+- 303 records
+- 14 features
 
 
 ---
