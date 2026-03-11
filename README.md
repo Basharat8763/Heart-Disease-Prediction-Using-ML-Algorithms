@@ -41,49 +41,6 @@ The dataset used in this project contains various clinical attributes related to
 - **target** – Presence of heart disease
 
 ### Target Variable
-# Heart Disease Prediction using ML Algorithms
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red)
-
----
-
-# Overview
-
-Heart disease is one of the leading causes of mortality worldwide. Early detection of cardiovascular diseases can significantly improve treatment outcomes and reduce health risks.
-
-This project presents a **machine learning-based predictive system for heart disease detection** using clinical and demographic patient data. The project involves data preprocessing, exploratory data analysis (EDA), feature analysis, and the implementation of several machine learning algorithms to determine the most effective model for predicting heart disease.
-
-Multiple classification models were evaluated and compared using standard machine learning evaluation metrics.
-
-This project demonstrates the practical application of **machine learning in healthcare analytics and predictive medical diagnostics.**
-
----
-
-# Dataset Description
-
-The dataset used in this project contains various clinical attributes related to heart disease prediction. These attributes represent medical measurements and personal health information used to predict whether an individual is likely to have heart disease.
-
-### Dataset Features
-
-- **age** – Age of the individual (in years)
-- **gender** – Gender of the individual (male or female)
-- **chest_pain_type** – Type of chest pain experienced
-- **resting_blood_pressure** – Resting blood pressure (mm Hg)
-- **serum_cholesterol** – Cholesterol level in blood (mg/dl)
-- **fasting_blood_sugar** – Blood sugar level (>120 mg/dl or not)
-- **resting_ecg** – Resting electrocardiographic results
-- **max_heart_rate_achieved** – Maximum heart rate during exercise
-- **exercise_induced_angina** – Exercise-induced angina
-- **oldpeak** – ST depression induced by exercise relative to rest
-- **slope_of_peak_exercise_st_segment** – Slope of peak exercise ST segment
-- **number_of_vessels_fluro** – Number of vessels colored by fluoroscopy
-- **thal** – Thalassemia type
-- **target** – Presence of heart disease
-
-### Target Variable
 0 → No Heart Disease
 1 → Heart Disease Present
 
