@@ -192,7 +192,7 @@ Heart-Disease-Prediction-Using-ML-Algorithms
 Clone the repository:
 
 
-git clone https://github.com/yourusername/Heart-Disease-Prediction-Using-ML-Algorithms.git
+git clone https://github.com/Basharat8763/Heart-Disease-Prediction-Using-ML-Algorithms/tree/main
 
 
 Navigate to the project directory:
