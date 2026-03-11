@@ -166,6 +166,7 @@ These visualizations help in understanding feature relationships and evaluating 
 
 # Project Structure
 
+```
 Heart-Disease-Prediction-Using-ML-Algorithms
 │
 ├── data
@@ -182,7 +183,7 @@ Heart-Disease-Prediction-Using-ML-Algorithms
 ├── requirements.txt
 │
 └── README.md
-
+```
 
 ---
 
